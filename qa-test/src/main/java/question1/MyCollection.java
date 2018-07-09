@@ -109,7 +109,7 @@ public class MyCollection implements DynamicArray{
 		// TODO Auto-generated method stub
 		String s = "{";
 		for(int i = 0; i < getCount()-1; i++) {
-			s += numArray[i]+", ";
+			s += numArray[i]+",";
 		}
 		s += numArray[getCount()-1] + "}";
 		return s;
