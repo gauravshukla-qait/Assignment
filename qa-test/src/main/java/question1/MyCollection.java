@@ -3,6 +3,7 @@ package question1;
 /**
  * Please implement Dynamic Array Interface 
  * @author 
+ Gaurav SHukla
  *
  */
 public class MyCollection implements DynamicArray{
